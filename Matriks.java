@@ -130,7 +130,7 @@ public class Matriks {
         
         public void Perkalian(){
         int a,b,c,d;
-        System.out.println("#MATRIKS PENGURANGAN#");        
+        System.out.println("#MATRIKS PERKALIAN#");        
         System.out.println("matriks harus memliki ordo yang sama.");
         System.out.println("Masukkan matriks pertama : ");
         System.out.print("jumlah Baris  : ");
